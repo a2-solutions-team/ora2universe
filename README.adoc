@@ -1,0 +1,6 @@
+image:https://img.shields.io/:license-apache-blue.svg[License,link=https://raw.githubusercontent.com/averemee-si/ora2iceberg/refs/heads/main/LICENSE]
+
+= ora2universe
+
+*ora2universe* is a set of software solutions for a fast, simple and the most cost effective way to stream data from Oracle Database to other databases, data warehouses, queues and storage engines. If you are running Oracle Database at the heart of your data-stack and move data at scale from Oracle Database to any of the above targets, *ora2universe* can provide value.
+
