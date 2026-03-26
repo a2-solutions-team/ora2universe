@@ -82,4 +82,14 @@
 		<module>ora2jdbc</module>
 	</modules>
 
+	<dependencies>
+		<!-- TODO will be replaced with pure oracdc after separation of oracdc-kafka to generic and Kafka parts -->
+		<!-- https://mvnrepository.com/artifact/solutions.a2.oracle/oracdc-kafka -->
+		<dependency>
+			<groupId>solutions.a2.oracle</groupId>
+			<artifactId>oracdc-kafka</artifactId>
+			<version>${oracdc.version}</version>
+		</dependency>
+	</dependencies>	
+
 </project>
